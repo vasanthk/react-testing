@@ -7,6 +7,8 @@ Testing React Components
 
 [Curated Links: React Redux Testing](https://github.com/markerikson/react-redux-links/blob/master/react-redux-testing.md)
 
+[Some Thoughts On Testing React/Redux Applications](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.dw9liuw8d)
+
 [Testing in React - Getting off the ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.8b33p2fij)
 
 [Getting started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
