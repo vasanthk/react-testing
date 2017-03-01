@@ -19,6 +19,8 @@ Testing React Components
 
 [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.kh4jwlc87)
 
+[Never Render in React tesing again](https://medium.com/@planttheidea/never-render-in-react-testing-again-fc4bcfc2f71d#.t4im0eapl)
+
 **Discussions**
 
 [Testing Async calls made with componentDidMount](https://www.reddit.com/r/reactjs/comments/4w0psb/help_with_testing_async_calls_made_in/)
